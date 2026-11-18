@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mexcheck": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mexcheck.com/mcp"]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "mexcheck": { "type": "http", "url": "https://mexcheck.com/mcp" }
+  }
+}

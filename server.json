@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mexcheck/mexcheck",
+  "title": "MexCheck",
+  "description": "Mexican RFC/SAT 69-B, CFDI, CURP (RENAPO) and INE checks against the official registries.",
+  "websiteUrl": "https://mexcheck.com/docs/mcp",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mexcheck.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://mexcheck.com/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ]
+}
